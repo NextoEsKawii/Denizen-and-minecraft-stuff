@@ -1,3 +1,30 @@
+Original script by mcmonkey
+
+(
+# +--------------------
+# |
+# | C h a t   P i n g s
+# |
+# | Alerts when somebody says your name!
+# |
+# +----------------------
+#
+# @author mcmonkey
+# @date 2019/03/01
+# @denizen-build DEV-670
+# @script-version 2.0
+#
+# Installation:
+# Just put the script in your scripts folder and reload.
+#
+# Usage:
+# Just say someone's name, everything is automatic.
+#
+# ---------------------------- END HEADER ----------------------------
+)
+link to original script: https://one.denizenscript.com/haste/52936
+i just added a few changes
+
 chat_pings_world:
     type: world
     events:
