@@ -1,6 +1,6 @@
-Original script by mcmonkey
+#Original script by mcmonkey
 
-(
+#(
 # +--------------------
 # |
 # | C h a t   P i n g s
@@ -21,9 +21,9 @@ Original script by mcmonkey
 # Just say someone's name, everything is automatic.
 #
 # ---------------------------- END HEADER ----------------------------
-)
-link to original script: https://one.denizenscript.com/haste/52936
-i just added a few changes
+#)
+#link to original script: https://one.denizenscript.com/haste/52936
+#i just added a few changes
 
 chat_pings_world:
     type: world
